@@ -1,0 +1,5 @@
+
+{"user":{"username":"john", "password":"password", "link":"/users/john"}}
+
+{"users-result":{"count":"6", "users"{{"username":"john", "password":"password",
+   "link":"/users/john"}}}}

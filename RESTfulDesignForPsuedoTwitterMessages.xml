@@ -1,0 +1,25 @@
+<messages>
+  <count></count>
+  <link></link>
+  <message>
+    <messageID></messageID>
+    <content></content>
+    <link></link>
+    <user>
+      <username></username>
+      <password></password>
+      <link></link>
+    </user>
+  </message>
+  ...
+  <message>
+    <messageID></messageID>
+    <content></content>
+    <link></link>
+    <user>
+      <username></username>
+      <password></password>
+      <link></link>
+    </user>
+  </message>
+</messages>

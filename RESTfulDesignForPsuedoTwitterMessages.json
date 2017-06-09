@@ -1,0 +1,10 @@
+{"message":{"messageID":"some-id", "content":"some content",
+  "link":"/messages/some-id", "user":{"user":{"username":"john",
+    "password":"password", "link":"/users/john"}}}
+
+{"messages-result":{"count":"6", "link":"/messages", "messages":
+  [{"messageID":"some-id", "content":"some content", "link":"/messages/some-id",
+     "user":{"username":"john", "password":"password", "link":"/users/john"}},
+     ,{"messageID":"some-id2", "content":"some content",
+       "link":"/messages/some-id2", "user":{"username":"jane",
+         "password":"password", "link":"/users/jane"}}]}}

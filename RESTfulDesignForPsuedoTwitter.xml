@@ -1,0 +1,15 @@
+<users>
+<count></count>
+<link></link>
+<user>
+  <username></username>
+  <password></password>
+  <link></link>
+</user>
+...
+<user>
+  <username></username>
+  <password></password>
+  <link></link>
+</user>
+</users>
